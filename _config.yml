@@ -1,3 +1,2 @@
 title: Aula da Experts Club
-theme: jekyll-theme-minimal
-logo: /assets/img/experts-club.png
+remote_theme: pmarsceill/just-the-docs
