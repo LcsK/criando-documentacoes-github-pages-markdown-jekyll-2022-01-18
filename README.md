@@ -1,6 +1,6 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# TÍTULO
+# Criando documentações com GitHub Pages, Markdown e Jekyll
 
 ## Descrição
 
